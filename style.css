@@ -1,0 +1,24 @@
+lines (19 sloc)  389 Bytes
+
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: bisque;
+    height: 100vh;
+    width: calc(100vw - (100vw - 100%));
+    font-family: 'Dongle', sans-serif;
+    font-size: 4vw;
+}
+
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40vh;
+    height: 30vh;
+}
